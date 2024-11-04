@@ -1,0 +1,300 @@
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ban.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachNhanVien.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhapHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSanPhamNCC.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSuaSanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemDanhMuc.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemKhachHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemNhanVien.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ban.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachHDN.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachNhanVien.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSanPhamNCC.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSuaSanPham.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemDanhMuc.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemKhachHang.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemNhanVien.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSL.resources
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPThanhToan.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPhieuThanhDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhanQuyen.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\codechung\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPhieuThanhDon.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhanQuyen.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPThanhToan.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1 (4)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPhieuThanhDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhanQuyen.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPThanhToan.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPhieuThanhDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhanQuyen.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPThanhToan.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doan1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\doancuoimon\doan2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\doancuoimon\doan2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\doancuoimon\doan2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\doancuoimon\doan2\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPhieuThanhDon.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhanQuyen.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPThanhToan.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPhieuThanhDon.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhanQuyen.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPThanhToan.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DOWNLOAD\WindowsFormsApp1\codechung\doancuoimon\doancuoimon\doan2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPhieuThanhDon.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhanQuyen.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPThanhToan.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lyrri\Desktop\NỘP ĐỒ ÁN CUỐI KÌ C#\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDoiMatKhau.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDon.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHoaDonNhap.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmKhachHang.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhanVien.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPhieuThanhDon.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongKe.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PhanQuyen.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham1.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SPThanhToan.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBanHang.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmNhaCungCap.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySanPham.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SanPham.resources
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsF.E38656D8.Up2Date
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lyrri\Desktop\QuanLyCuaHang_TruongHoangThinh_CT06N0154\PhanMem\3_ProjectConvenienceStore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

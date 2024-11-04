@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|c:\\users\\lyrri\\desktop\\quanlycuahang_truonghoangthinh_ct06n0154\\phanmem - copy\\3_projectconveniencestore\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|c:\\users\\lyrri\\desktop\\quanlycuahang_truonghoangthinh_ct06n0154\\phanmem - copy\\3_projectconveniencestore\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|c:\\users\\lyrri\\desktop\\quanlycuahang_truonghoangthinh_ct06n0154\\phanmem - copy\\3_projectconveniencestore\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|c:\\users\\lyrri\\desktop\\quanlycuahang_truonghoangthinh_ct06n0154\\phanmem - copy\\3_projectconveniencestore\\windowsformsapp1\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|solutionrelative:frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|c:\\users\\lyrri\\desktop\\quanlycuahang_truonghoangthinh_ct06n0154\\phanmem - copy\\3_projectconveniencestore\\windowsformsapp1\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12CCA31C-EB43-4E05-A690-0CCF1F81A698}|WindowsFormApp1.csproj|solutionrelative:frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:57:49.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:57:48.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:57:43.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmQuanLySanPham.cs",
+              "DocumentMoniker": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\frmQuanLySanPham.cs",
+              "RelativeDocumentMoniker": "frmQuanLySanPham.cs",
+              "ToolTip": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\frmQuanLySanPham.cs",
+              "RelativeToolTip": "frmQuanLySanPham.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAuwDkBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:57:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmQuanLySanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\frmQuanLySanPham.cs",
+              "RelativeDocumentMoniker": "frmQuanLySanPham.cs",
+              "ToolTip": "C:\\Users\\lyrri\\Desktop\\QuanLyCuaHang_TruongHoangThinh_CT06N0154\\PhanMem - Copy\\3_ProjectConvenienceStore\\WindowsFormsApp1\\frmQuanLySanPham.cs [Design]",
+              "RelativeToolTip": "frmQuanLySanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:57:30.879Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1146,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
